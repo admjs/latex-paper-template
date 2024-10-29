@@ -147,8 +147,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ---
 
-**Note**: Replace `yourusername` in the clone URL with your actual GitHub username and ensure that you include a `LICENSE` file in your repository if you choose to specify a license.
-
 ### Example Files in the Repository
 
 - `template.tex`: The main LaTeX template file.
