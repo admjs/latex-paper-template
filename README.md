@@ -153,18 +153,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 - `template.tex`: The main LaTeX template file.
 - `references.bib`: The BibTeX file for managing references.
-- `images/`: A directory to store images used in the paper.
 - `README.md`: This readme file with instructions.
 - `LICENSE`: The license file (if applicable).
-
-### Additional Tips
-
-- **Clarity and Conciseness**: Write clearly and avoid unnecessary jargon.
-- **Reproducibility**: Provide sufficient details in your methodology and experiments sections.
-- **Ethical Considerations**: Include discussions on ethics if relevant to your research.
-- **Proofreading**: Always proofread your paper for grammatical errors and typos.
-- **Feedback**: Consider getting feedback from peers before finalizing your paper.
-
-### Contact Information
-
-If you have any questions or need assistance, feel free to open an issue in the repository or contact the maintainer at [your.email@example.com](mailto:your.email@example.com).
